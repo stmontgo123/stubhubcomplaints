@@ -1,0 +1,1 @@
+export default function Admin(){return <section className="section"><div className="container"><h1>Admin Dashboard</h1><div className="grid"><div className="card"><h3>Pending</h3><p>0 complaints awaiting review</p></div><div className="card"><h3>Approved</h3><p>0 public complaints</p></div><div className="card"><h3>Flagged</h3><p>0 flagged posts</p></div></div></div></section>}

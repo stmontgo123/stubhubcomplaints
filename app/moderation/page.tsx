@@ -1,0 +1,1 @@
+export default function Moderation(){return <section className="section"><div className="container"><h1>Moderation Policy</h1><div className="card"><p>Posts should be factual, specific, and free of threats, hate, doxxing, private financial details, or unsupported claims.</p></div></div></section>}

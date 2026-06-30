@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="footer"><div className="container">Independent consumer forum. Not affiliated with, endorsed by, or sponsored by StubHub. Users are responsible for the factual accuracy of their submissions.</div></footer>}

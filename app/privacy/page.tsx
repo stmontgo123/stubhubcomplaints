@@ -1,0 +1,1 @@
+export default function Privacy(){return <section className="section"><div className="container"><h1>Privacy Policy</h1><div className="card"><p>Do not submit sensitive personal information. Future versions will store account, complaint, and moderation data only as needed to operate the service.</p></div></div></section>}

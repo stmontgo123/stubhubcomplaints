@@ -1,0 +1,1 @@
+export default function Terms(){return <section className="section"><div className="container"><h1>Terms of Use</h1><div className="card"><p>Users must submit truthful, lawful, non-harassing content based on their own experiences. We may remove posts that violate moderation rules.</p></div></div></section>}
